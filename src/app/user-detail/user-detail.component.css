@@ -1,0 +1,13 @@
+.container{
+    margin: 40px 10px;
+    background-color: #dedede;
+    padding: 10px 10px;
+    display: flex;
+    height:170px ;
+    width: 300px;
+}
+
+.user-details{ 
+    padding: 20px 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
